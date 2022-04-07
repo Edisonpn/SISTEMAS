@@ -1,0 +1,17 @@
+body {
+    text-align:center; 
+    background-color: lawngreen;
+}
+
+h1{
+    color: rgb(161, 6, 175);
+}
+
+h2{
+    font-weight:bolder;
+    color: dodgerblue;
+}
+
+h6{
+    font-style: italic;
+}
